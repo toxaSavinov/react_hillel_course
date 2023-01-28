@@ -1,2 +1,8 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 /node_modules/
 /.idea/
+/package-lock.json
